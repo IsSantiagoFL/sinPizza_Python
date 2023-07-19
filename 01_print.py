@@ -15,7 +15,7 @@ varias lineas
 '''
 
 # Imprimimir mensajes en consola :
-print("Hola mundo")
+print("Hola mundo_archivo 01")
 
 # Operaciones aritmeticas en python :
 print(10-5)
