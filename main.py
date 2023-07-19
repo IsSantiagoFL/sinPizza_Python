@@ -1,4 +1,4 @@
-# Esto es un comentario simple de una linea
+# Esto es un comentario simple de una línea
 
 """
 Este es un 
@@ -9,15 +9,15 @@ varias lineas
 '''
 Esta es otra 
 forma al estilo 
-python, de hacer 
+Python, de hacer 
 un comentario de 
 varias lineas
 '''
 
-# Imprimir mensajes en consola:
-print("Hola mundo")
+# Imprimimir mensajes en consola :
+imprimir("Hola mundo")
 
-# Operaciones aritmeticas en python:
-print(10-5)
-print(8/2)
+# Operaciones aritmeticas en python :
+imprimir(10)))-5)
+imprimir(8/2)
 
